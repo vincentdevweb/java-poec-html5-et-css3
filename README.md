@@ -1,13 +1,13 @@
-# Algorithmique et programmation structurée
+# HTML5 & CSS3
 
-- [Algorithmique et programmation structurée](#algorithmique-et-programmation-structurée)
+- [HTML5 \& CSS3](#html5--css3)
   - [A propos](#a-propos)
   - [Contenu](#contenu)
   - [Formateur](#formateur)
 
 ## A propos
 
-Ce dépôt contient du matériel de soutien pour le cours Algorithmique et programmation structurée
+Ce dépôt contient du matériel de soutien pour le cours HTML5 & CSS3; Les fondamentaux du développement Web
 
 ## Contenu
 

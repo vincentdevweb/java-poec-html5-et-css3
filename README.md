@@ -7,14 +7,13 @@
 
 ## A propos
 
-Ce dépôt contient du matériel de soutien pour le cours HTML5 & CSS3; Les fondamentaux du développement Web
+Ce dépôt contient du matériel de soutien pour le cours **HTML5 & CSS3**, *Les fondamentaux du développement Web*.
 
 ## Contenu
 
 Ce dépôt est organisé comme suit :
 
-- Vous pouvez trouver la présentation PDF du cours [ici](./algo-et-programmation-structuree.pdf)
-- [Les exercices](./exercices/)
+- Vous pouvez trouver la présentation PDF du cours [ici](./Support%20HTML%205%20&%20CSS%203.pdf)
 
 ## Formateur
 
